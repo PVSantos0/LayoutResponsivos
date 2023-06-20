@@ -1,2 +1,2 @@
 # projeto-apeperia
-Arquivos do projeto para a Apeperia
+E um projeto feito para estudar comportamento de responsividade com apenas css e html.
